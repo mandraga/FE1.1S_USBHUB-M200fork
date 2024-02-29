@@ -1,7 +1,8 @@
 # FE1.1S_USBHUB
 
 ## Description:
-This is an working USB HUB using the FE1.1S ic. It has low transferr speed, but it`s working. More about this project at the bottom of the page.
+This is an working USB HUB using the FE1.1S ic. It has low transferr speed, but it`s working.<br>
+More about this project at the bottom of the page.
 
 <table>
   <tr>
