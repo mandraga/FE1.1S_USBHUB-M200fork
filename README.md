@@ -1,7 +1,7 @@
 # FE1.1S_USBHUB
 
 ## Description:
-This is an USB HUB using the FE1.1S ic. 
+This is an working USB HUB using the FE1.1S ic. It has low transferr speed, but it`s working. More about this project at the bottom of the page.
 
 <table>
   <tr>
@@ -10,7 +10,7 @@ This is an USB HUB using the FE1.1S ic.
   </tr>
 </table>
 
-### my schematic
+## My schematic
 <img src="https://github.com/Tonikiller10000/FE1.1S_USBHUB/blob/main/Usb_Hub_Pictures/4.jpg">
 
 ## Results:
