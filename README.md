@@ -3,10 +3,15 @@
 ## Description:
 This is an USB HUB using the FE1.1S ic. 
 
-<img src="https://github.com/Tonikiller10000/FE1.1S_USBHUB/blob/main/Usb_Hub_Pictures/2.jpg">
-<img src="https://github.com/Tonikiller10000/FE1.1S_USBHUB/blob/main/Usb_Hub_Pictures/4.jpg">
-<img src="https://github.com/Tonikiller10000/FE1.1S_USBHUB/blob/main/Usb_Hub_Pictures/5.jpg">
+<table>
+  <tr>
+    <td><img src="https://github.com/Tonikiller10000/FE1.1S_USBHUB/blob/main/Usb_Hub_Pictures/2.jpg"></td>
+    <td><img src="https://github.com/Tonikiller10000/FE1.1S_USBHUB/blob/main/Usb_Hub_Pictures/5.jpg"></td>
+  </tr>
+</table>
 
+### my schematic
+<img src="https://github.com/Tonikiller10000/FE1.1S_USBHUB/blob/main/Usb_Hub_Pictures/4.jpg">
 
 ## Results:
 As you can see, the USB hub is recognised and it\`s working. 
