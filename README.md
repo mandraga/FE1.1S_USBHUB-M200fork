@@ -2,12 +2,7 @@
 
 ## Description:
 This is an working USB HUB using the FE1.1S ic. It has low transfer speed, but it`s working.<br>
-
-The board has:
-- 5 led\`s(one to show each port activity and one for general working) 
-- 4 decoupling capacitors (for the 1.8V, 3.3V and 5V internal regulators)
-- 1x 2.7kohm (+- 1%) resistor between pin 14 and GND
-- 1x 12MHz oscilator between pins 2 and 3.
+The board has 5 led\`s(one to show each port activity and one for general working), 4 decoupling capacitors (for the 1.8V, 3.3V and 5V internal regulators), an 2.7kohm (+- 1%) resistor between pin 14 and GNDand an  12MHz oscilator between pins 2 and 3.
 
 <table>
   <tr>
