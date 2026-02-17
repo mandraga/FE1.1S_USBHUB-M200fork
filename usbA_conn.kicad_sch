@@ -541,7 +541,7 @@
     (property "Value" "USB-A-S-X-X-TH" (at 168.91 95.25 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "USB-A-S-X-X-TH:SAMTEC_USB-A-S-X-X-TH" (at 162.56 92.71 0)
+    (property "Footprint" "lib:SAMTEC_USB-A-S-X-X-TH" (at 162.56 92.71 0)
       (effects (font (size 1.27 1.27)) (justify bottom) hide)
     )
     (property "Datasheet" "" (at 162.56 92.71 0)
